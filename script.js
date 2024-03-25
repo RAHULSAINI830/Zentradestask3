@@ -39,7 +39,7 @@ function login() {
         return;
     }
 
-    if (password === 'SmartServTest@123') {
+    if (password === 'ZenTradesTest@12') {
         window.location.href = "dashboard.html";
     } else {
         alert('Incorrect password. Please try again.');
